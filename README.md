@@ -8,5 +8,5 @@ détection de débris spatiaux (risques de pollution et d'endommagements), l'uti
 surveillance du ciel. Elles deviennent alors un enjeu majeur afin de garantir la sécurité et la
 détection de potentiels dangers.
 
-![alt text](http://url/to/img.png)
 ![alt text](https://github.com/HeloiseLafargue/Phase-control-antennas-project//blob/main/dephaseur.png?raw=true)
+![alt text](https://github.com/HeloiseLafargue/Phase-control-antennas-project//blob/main/dephasage 30 50.png?raw=true)

@@ -9,4 +9,4 @@ surveillance du ciel. Elles deviennent alors un enjeu majeur afin de garantir la
 détection de potentiels dangers.
 
 ![alt text](https://github.com/HeloiseLafargue/Phase-control-antennas-project//blob/main/dephaseur.png?raw=true)
-![alt text](https://github.com/HeloiseLafargue/Phase-control-antennas-project/blob/main/dephasage 30 50.png?raw=true)
+![alt text](https://github.com/HeloiseLafargue/Phase-control-antennas-project/blob/main/dephasage_30_50.png?raw=true)
